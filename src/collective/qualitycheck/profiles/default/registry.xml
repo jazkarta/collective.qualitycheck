@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<registry>
+<!-- -*- extra stuff goes here -*- -->
+  <records prefix="plone.resources/quality-check"
+            interface='Products.CMFPlone.interfaces.IResourceRegistry'>
+      <value key="js">++collective.qualitycheck++components/quality-check.js</value>
+  </records>
+
+</registry>
